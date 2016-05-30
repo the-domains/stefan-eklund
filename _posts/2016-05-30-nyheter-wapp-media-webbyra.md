@@ -12,8 +12,8 @@ inLanguage: sv
 app_links: []
 isBasedOnUrl: 'http://wappmedia.se/nyheter-webbyran-wapp-media/'
 title: Nyheter - Wapp Media webbyrå
-datePublished: '2016-05-30T16:53:13.513Z'
-dateModified: '2016-05-30T16:53:13.454Z'
+datePublished: '2016-05-30T16:53:13.679Z'
+dateModified: '2016-05-30T16:53:13.619Z'
 starred: false
 sourcePath: _posts/2016-05-30-nyheter-wapp-media-webbyra.md
 inFeed: true
